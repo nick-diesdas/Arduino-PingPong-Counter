@@ -1,1 +1,8 @@
-# Arduino-PingPong-Counter
+# Arduino Ping Pong
+
+![wirering](pingpong.svg)
+
+![scheme](pingpong_schem.svg)
+
+
+
