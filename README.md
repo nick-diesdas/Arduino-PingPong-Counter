@@ -1,8 +1,8 @@
 # Arduino Ping Pong
 
-![wirering](pingpong.svg)
+![wirering](pingpong.png)
 
-![scheme](pingpong_schem.svg)
+![scheme](pingpong_scheme.png)
 
 
 
